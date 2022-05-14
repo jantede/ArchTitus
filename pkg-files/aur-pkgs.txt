@@ -18,6 +18,7 @@ nordic-kde-git
 nordic-theme
 ocs-url
 plymouth-git
+qbittorrent
 sddm-nordic-theme-git
 snapper-gui-git
 tor-browser
