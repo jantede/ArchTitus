@@ -20,5 +20,6 @@ ocs-url
 plymouth-git
 sddm-nordic-theme-git
 snapper-gui-git
+tor-browser
 ttf-meslo
 vde2
