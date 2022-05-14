@@ -1,8 +1,11 @@
 --END OF MINIMAL INSTALL--
 1password
+1password-cli
+atom
 autojump
-firefox
 bridge-utils
+cider
+discord
 dxvk-bin
 lightly-git
 lightlyshaders-git
